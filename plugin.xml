@@ -81,7 +81,7 @@
 	    
         <config-file target="/manifest/application" parent="app/src/main/AndroidManifest.xml">
             <meta-data
-			android:name="com.transistorsoft.locationmanager.license_key"
+			android:name="com.transistorsoft.locationmanager.license"
 			android:value="4bbb513c013111eae951647fd4f9e79f127fce6f7a00e9d327db9ea2a053a0df"/>
         </config-file>
 	   
